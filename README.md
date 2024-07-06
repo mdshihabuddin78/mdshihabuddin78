@@ -66,7 +66,7 @@
 <br />
 
 <p align="center">
-    <a href="" target="blank">
+    <a href="https://x.com/shihab_uddin78" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MdShaharulIslam" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/rabby-hasan-saref/?originalSubdomain=bd" target="blank">
