@@ -9,7 +9,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
-<h1 align="center">Hi 👋, I'm Rabby Hasan Saref</h1>
+<h1 align="center">Hi 👋, I'm Md.Shihab Uddin</h1>
 <h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
 <p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
 <p align="center"> 
@@ -83,7 +83,7 @@
 ## :chart_with_upwards_trend: Current Stats
 <br />
 
-![Rabby Hasan Saref GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbyHasanSaref&show_icons=true&theme=highcontrast)
+![Md.Shihab Uddin GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshihabuddin78&show_icons=true&theme=highcontrast)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MdShaharulIslam&theme=highcontrast)](https://git.io/streak-stats)
 
