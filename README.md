@@ -13,7 +13,7 @@
 <h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
 <p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
 <p align="center"> 
-<p align="center"><img src="https://online.mikrof.com/logo.png" alt="shihab" width="300"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShaharulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="Shihab" /> </p>
 <!--  <img src="https://img.shields.io/badge/Languages-HTML|CSS|Tailwind|Botstrap|Mongodb|Firebase|React| Node | React -green.svg" alt="Shaharul Islam languages" /> -->
 
 </p>
